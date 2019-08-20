@@ -1,3 +1,7 @@
-"# lab-4C15-2019-2-Project-1" 
-# Proyecto de Laboratorio 2
-#Indice
+# lab-4C15-2019-2-Project 
+
+Descripción breve del proyecto
+
+## Getting Started
+
+Instrucciones para empezar el proyecto
